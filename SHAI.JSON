@@ -88,5 +88,11 @@
         "key": "Vh8MkLp3",
         "expirydate": "02-07-2026",
         "Allowoffline": true
+    },
+    {
+        "device_id": "f08435405c8741d6",
+        "key": "Zr4mXpL8",
+        "expirydate": "05-07-2026",
+        "Allowoffline": true
     }
 ]
