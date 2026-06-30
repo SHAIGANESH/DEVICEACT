@@ -24,7 +24,7 @@
     {"device_id": "85de592d07c87b20", "key": "TRIALKEY", "expirydate": "30-06-2026", "Allowoffline": true},
     {"device_id": "d4a427bbcf7b1cbb", "key": "MONTHLY", "expirydate": "08-07-2026", "Allowoffline": true},
     {"device_id": "772ce2827f5e5b78", "key": "7DAYS", "expirydate": "02-07-2026", "Allowoffline": true},
-    {"device_id": "7890123456789012", "key": "8", "expirydate": "25-06-2026", "Allowoffline": true},
+    {"device_id": "5eccc75db57a8712", "key": "MONTHKEY", "expirydate": "03-07-2026", "Allowoffline": true},
     {"device_id": "8901234567890123", "key": "9", "expirydate": "25-06-2026", "Allowoffline": true},
     {"device_id": "9012345678901234", "key": "10", "expirydate": "25-06-2026", "Allowoffline": true},
     {"device_id": "0123456789012345", "key": "11", "expirydate": "25-06-2026", "Allowoffline": true},
